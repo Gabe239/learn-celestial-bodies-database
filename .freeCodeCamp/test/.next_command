@@ -32,3 +32,10 @@ git remote add origin https://github.com/Gabe239/fcc-postgres-universedb.git
 git status
 git remote add neworigin https://github.com/Gabe239/fcc-postgres-universedb.git
 git add .
+git commit -m "postgres universedb"
+git branch -M main
+git push origin main
+git push origin main
+git push origin main
+git status
+git push origin main
